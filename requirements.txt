@@ -1,5 +1,2 @@
-csv
 pystyle
-socket
 requests
-threading
